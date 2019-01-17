@@ -1,6 +1,6 @@
 /****************************************************
- Objective: Feature extraction of real-time data.	*
- Author: Golam Gause Jaman							*
+ Objective: Feature extraction of real-time data.	
+ Author: Golam Gause Jaman							
  ****************************************************/ 
 
 #ifndef	FEATUREEXLIB
